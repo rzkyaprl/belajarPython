@@ -1,0 +1,27 @@
+pada praktikkum ketiga
+membandingkan nilai dari dua nilai 
+Bilangan 4/9 dan 5/8
+yaitu dengan mencari hasil nilai lebih besar dari atau lebih kecil dari 
+menggunakan operator < dan > 
+
+hasil dari bilangan tersebut akan muncul nilai true atau false
+Apakah 4/9 lebih besar dari 5/8? False menggunakan >
+Apakah 4/9 lebih kecil dari 5/8? True menggunakan <
+
+2) Bilangan 7/3 dan 24/7
+yaitu dengan mencari hasil nilai lebih besar dari atau lebih kecil dari 
+menggunakan operator < dan > 
+
+hasil dari bilangan tersebut akan muncul nilai true atau false  
+Apakah 7/3 lebih besar dari 24/7? False menggunakan >
+Apakah 7/3 lebih kecil dari 24/7? True menggunakan <
+
+3) Perhitungan 75000+25%+50% dan 75000+75%
+menghitung hasil dari 75000+25%+50%  dan 75000+75%
+lalu akan membandingkan keduanya menggunakan opreator ==
+
+didapat hasil 
+
+Apakah hasil (75000+25%+50%) sama dengan hasil (75000+75%)? False
+75000+25%+50% =  84375.0
+75000+75%     =  131250.0

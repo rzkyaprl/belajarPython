@@ -1,0 +1,22 @@
+Pratikum 1 
+
+Membuat aplikasi converter nilai celcius ke Fahrenheit
+
+Untuk membuat aplikasi tersebut yang diperlukan 3 buah variable yaitu
+C untuk menyimpan masukan dari nilai celcius
+F untuk menyimpan hasil proses convert celcius ke fahrenheit
+
+Tipe data dari c dan f adalah float. Karena proses perubahan nilai dari c ke f mengalikan nilai 
+Dengan float juga
+
+Dan string_value untuk menampung nilai float yang Sudah dirubah ke string
+String value berfungsi untuk menyisipkan nilai fahrenheit ke string
+
+
+
+Alur dari dari aplikasi tersebuat ialah
+> memasukan nilai c
+> memproses nilai c ke f
+> menyimpan nilai f
+> mengubah value f ke string
+> menampilkan nilai ke layar

@@ -1,0 +1,27 @@
+Pratikum 2 proses pembuatan
+
+dalam Pratikum ini ditugaskan untuk memotong bagian dari string
+dan menampilkan yang string yang dinginkan 
+
+pada python terdapat fitur slice
+
+contoh 
+menyimpan nilai string pada variable "kalimat"
+nilai dari string tersebut adalah "Praktikum Algoritma & Pemrograman"
+
+kalimat = "Praktikum Algoritma & Pemrograman"
+
+ketika memang variable kalimat diberikan simbol [:] 
+untuk mengambil nilai utuh dari variable kalimat
+print(kalimat[:])
+
+Bagaimana cara memotongnya?
+dengan cara mengambil titik awal dan akhir dari sebuah kalimat
+contohnya algoritma, algoritma diambil dari Praktikum Algoritma &  Pemrograman
+dan memotong dari titik sebelum awal kalimat yaitu 10 dan setelah kalimat yaitu 19
+print(kalimat[10:19]) 
+
+kalo dibuat double gimana?
+hasil dari slice bisa digabungkan seperti nilai variable string lainnya
+menggunakan "+'
+print(kalimat[22:33] + kalimat[22:33])

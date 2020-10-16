@@ -1,0 +1,26 @@
+Pada pratikkum keempat
+
+membuat studi kasus percabangan diskon
+
+jadi diberikan soal untuk membuat aplikasi diskon
+
+dengan ketentuan jika 
+jika total nilai dari uangnya diatas 200.000 dapat diskon 50.000 dan kartu anggota
+jika total nilai dari uangnya diantara 200.000 dan 100.000 dapat diskon 30.000
+dan yang terkhir gak dapat diskon jika total nilai uangnya dibawah 100.000
+
+percabangan pada python cukup unik karena tidak menggunakan kurung kurawa
+tetapi menggunakan jarak baris dan menggunakan titik dua untuk memulai statement
+
+untuk mendapatkan hasil ketentuan tersebut harus mengurutkannya dari nilai terkecil
+yaitu dimulai dari tidak mendapatakan diskon hingga mendapatakan diskon 50.000 dan kartu anggota
+
+kenapa?
+jika memulai percabangan dari nilai tertinggi maka nilai terendah tidak akan diproses
+
+kok bisa?
+karena percabangan memulai dari atas dan akan berenti jika nilai telah memenuhi ketentuan
+
+
+
+
